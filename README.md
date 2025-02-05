@@ -1,8 +1,16 @@
-# Balanced Risk Set Matching
+# Assignment_1_Data_Analysis
 
-Python Implementation of the procedures listed in the [Balanced Risk Set Matching by Yunfei Paul Li, Kathleen J Propert & Paul R Rosenbaum](https://www.tandfonline.com/doi/abs/10.1198/016214501753208573)
+This assignment aims to simulate the procedures used in the paper [Balanced Risk Set Matching](https://doi.org/10.1198/016214501753208573) by Yunfei Paul Li, Kathleen J. Propert, and Paul R. Rosenbaum.
 
-### Group Members
+## Usage
 
-Samuel Bonghanoy
-Ian de Jesus
+You will need to install [Poetry](https://python-poetry.org/) first to install the libraries before running the Jupyter Notebook import statements.
+
+```bash
+# install the packages in a project-scoped venv
+poetry install
+```
+
+## Contributors
+
+Samuel Bonghanoy & Christian de Jesus
