@@ -5,4 +5,5 @@ Python Implementation of the procedures listed in the [Balanced Risk Set Matchin
 ### Group Members
 
 Samuel Bonghanoy
+
 Ian de Jesus
